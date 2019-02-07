@@ -1,0 +1,121 @@
+{
+  "project_info": {
+    "project_number": "501028830460",
+    "firebase_url": "https://alquiler-50b6c.firebaseio.com",
+    "project_id": "alquiler-50b6c",
+    "storage_bucket": "alquiler-50b6c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:501028830460:android:482a780516491722",
+        "android_client_info": {
+          "package_name": "com.example.facci.alquiler"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "501028830460-q0a540ukaaajmnt18h19n8m5bagabdiv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.facci.alquiler",
+            "certificate_hash": "b1972805f73e2344b79510481fa77c9c912804dc"
+          }
+        },
+        {
+          "client_id": "501028830460-cenh6cm138tqgasp65e6483a86cn62e3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.facci.alquiler",
+            "certificate_hash": "be31a1812f85bfc7da5d92add972afac97a485e9"
+          }
+        },
+        {
+          "client_id": "501028830460-8laf687cfspaeom8n1r18bcrr2pljco0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpBiQPHM-3vjOnRRa0K5DN9T0ievYA6Lo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "501028830460-8laf687cfspaeom8n1r18bcrr2pljco0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "501028830460-vifqbmia9s118u2dccgqpq5l180grv3s.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "piazzoli.kevin.com.firebasechat"
+              }
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:501028830460:android:4a2f6e82a2990eb8",
+        "android_client_info": {
+          "package_name": "piazzoli.kevin.com.firebasechat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "501028830460-pgjms6q1at5g73mvuakebbano46fqcdo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "piazzoli.kevin.com.firebasechat",
+            "certificate_hash": "b1972805f73e2344b79510481fa77c9c912804dc"
+          }
+        },
+        {
+          "client_id": "501028830460-8laf687cfspaeom8n1r18bcrr2pljco0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpBiQPHM-3vjOnRRa0K5DN9T0ievYA6Lo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "501028830460-8laf687cfspaeom8n1r18bcrr2pljco0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "501028830460-vifqbmia9s118u2dccgqpq5l180grv3s.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "piazzoli.kevin.com.firebasechat"
+              }
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

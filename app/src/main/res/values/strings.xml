@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Alquiler</string>
+
+    <string-array name="estado">
+        <item>Libre</item>
+        <item>Ocupado</item>
+    </string-array>
+</resources>
